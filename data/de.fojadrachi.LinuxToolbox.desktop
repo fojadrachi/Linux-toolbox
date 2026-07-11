@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Linux Toolbox
+Comment=Systeminfos und Wartungsaufgaben an einem Ort
+Exec=linux-toolbox
+Icon=de.fojadrachi.LinuxToolbox
+Terminal=false
+Categories=System;Utility;Monitor;
+StartupNotify=true
+Keywords=Linux;Fedora;Debian;Ubuntu;Arch;openSUSE;System;NVIDIA;Update;Gaming;Support;
