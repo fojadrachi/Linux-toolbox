@@ -147,6 +147,13 @@ linux_toolbox/
   upgrade -y`, `pacman -Syu`, `zypper update`) bzw. `flatpak update -y` —
   `pkexec` zeigt dabei die normale PolicyKit-Passwortabfrage.
 
+## Screenshots
+
+<p float="left">
+  <img src="docs/screenshots/screenshot-hardware.png" width="49%" alt="Hardwareübersicht & NVIDIA-Erkennung">
+  <img src="docs/screenshots/screenshot-updates.png" width="49%" alt="Updates, Dienste & Gaming">
+</p>
+
 ## Bekannte Einschränkungen
 
 - Mainboard-Name und SMART-Status benötigen teils root-Rechte
